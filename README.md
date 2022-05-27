@@ -1,1 +1,2 @@
-# Classification-of-brain-images-at-different-stages-of-Alzheimer-using-Unet-model
+# Classification-of-brain-images-at-different-stages-of-Alzheimer-using-Resnet-model
+This Computer Vision project classifies MRI images of brain into different stages of Alzheimer using a pretrained Resnet50 model. The paths of train and test images directories should be provided in config.py file  to "data_train" and "data_test" variables. The name of subfolders in the directories should be the label of the images it contains.
